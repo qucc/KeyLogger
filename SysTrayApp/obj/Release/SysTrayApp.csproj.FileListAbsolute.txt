@@ -1,0 +1,7 @@
+D:\Keylogger\SysTrayApp\bin\Release\SysTrayApp.exe.config
+D:\Keylogger\SysTrayApp\bin\Release\SysTrayApp.exe
+D:\Keylogger\SysTrayApp\bin\Release\SysTrayApp.pdb
+D:\Keylogger\SysTrayApp\obj\Release\SysTrayApp.Properties.Resources.resources
+D:\Keylogger\SysTrayApp\obj\Release\SysTrayApp.csproj.GenerateResource.Cache
+D:\Keylogger\SysTrayApp\obj\Release\SysTrayApp.exe
+D:\Keylogger\SysTrayApp\obj\Release\SysTrayApp.pdb

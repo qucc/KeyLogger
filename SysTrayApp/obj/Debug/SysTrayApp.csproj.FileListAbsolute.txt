@@ -1,0 +1,11 @@
+C:\Users\le\Documents\Visual Studio 2015\Projects\HelloService\SysTrayApp\bin\Debug\SysTrayApp.exe.config
+C:\Users\le\Documents\Visual Studio 2015\Projects\HelloService\SysTrayApp\bin\Debug\SysTrayApp.exe
+C:\Users\le\Documents\Visual Studio 2015\Projects\HelloService\SysTrayApp\bin\Debug\SysTrayApp.pdb
+C:\Users\le\Documents\Visual Studio 2015\Projects\HelloService\SysTrayApp\obj\Debug\SysTrayApp.csprojResolveAssemblyReference.cache
+C:\Users\le\Documents\Visual Studio 2015\Projects\HelloService\SysTrayApp\obj\Debug\SysTrayApp.Properties.Resources.resources
+C:\Users\le\Documents\Visual Studio 2015\Projects\HelloService\SysTrayApp\obj\Debug\SysTrayApp.csproj.GenerateResource.Cache
+C:\Users\le\Documents\Visual Studio 2015\Projects\HelloService\SysTrayApp\obj\Debug\SysTrayApp.exe
+C:\Users\le\Documents\Visual Studio 2015\Projects\HelloService\SysTrayApp\obj\Debug\SysTrayApp.pdb
+D:\Keylogger\SysTrayApp\bin\Debug\SysTrayApp.exe.config
+D:\Keylogger\SysTrayApp\obj\Debug\SysTrayApp.exe
+D:\Keylogger\SysTrayApp\obj\Debug\SysTrayApp.pdb
