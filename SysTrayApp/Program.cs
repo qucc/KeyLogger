@@ -63,10 +63,10 @@ namespace SysTrayApp
                 if (x == Int16.MinValue) //Use constants (0x8000 and -32768 is Int16.MaxValue)
                 {
                     pressCount++;
-                    if (pressCount >= 7)
+                    if (pressCount >= 5)
                     {
                         pressCount = 0;
-                        Process.Start("shutdown", "/r /f");
+                        Process.Start("shutdown", "/r /t 0 /f");
                     }
                 }
 
