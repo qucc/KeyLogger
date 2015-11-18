@@ -54,13 +54,14 @@ namespace SysTrayApp
 
             private void Timer_Tick(object sender, EventArgs e)
             {
-                int x = GetAsyncKeyState(Keys.LButton);
-                Console.WriteLine(x);
-                if(x == 0)
+                int lbutton = GetAsyncKeyState(Keys.LButton);
+                int enter = GetAsyncKeyState(Keys.Enter);
+                
+                if(lbutton == 0 || enter == 0)
                 {
                     pressCount = 0;
                 }
-                if (x == Int16.MinValue) //Use constants (0x8000 and -32768 is Int16.MaxValue)
+                if (lbutton == Int16.MinValue || enter == Int16.MinValue) //Use constants (0x8000 and -32768 is Int16.MaxValue)
                 {
                     pressCount++;
                     if (pressCount >= 5)
